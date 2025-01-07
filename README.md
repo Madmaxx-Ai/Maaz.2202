@@ -1,43 +1,18 @@
+# 💫 About Me:
+Hi, my name is Muhammad Maaz and I am a student of Software Engineering.<br>I am passionate about learning new technologies especially related to web development.
 
-###
 
-<h1 align="center">Hey there 👋</h1>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Affan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moh_affan_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-affan-396660245/) 
 
-###
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MuhammadAffan-06&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAffan-06&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAffan-06&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=MuhammadAffan-06&icon=2&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="left">I'm from Pakistan <br><br>- 🔭 I’m working as  <br>- 📚 I'm currently learning Python,HTML and CSS <br>- ⚡ In my free time I Explore different domains</p>
-
-###
-
-<h3 align="left">🛠 Language and Tools</h3>
-
-###
-
-<div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="INSTAGAM logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="LINKED IN logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="G-MAIL logo"  />
-  <img width="12" />
-  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-  </div>
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
