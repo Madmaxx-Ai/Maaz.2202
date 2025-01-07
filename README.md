@@ -35,13 +35,15 @@
 
 ###
   <div align="left">
-  <img src="https://www.instagram.com/" height="40" alt="Instagram logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/" height="40" alt="Instagram logo"  />
+  [Instagram](https://www.instagram.com/)
   <img width="12" />
-  <img src="https://www.linkedin.com/feed/" height="40" alt="linked logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_Logo_2013.png)](https://www.linkedin.com/feed/" height="40" alt="linked logo"  />
+  [LinkedIn]( https://www.linkedin.com/feed/)
   <img width="12" />
-   <div align="left">
-  <img src="https://mail.google.com/mail/u/0/#inbox" height="40" alt="G-mail logo"  />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon.png" height="40" alt="G-mail logo"  />
+  [Gmail](https://mail.google.com/mail/u/0/#inbox)
+  <img width="12" />
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
