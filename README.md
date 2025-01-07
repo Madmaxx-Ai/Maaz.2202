@@ -1,18 +1,58 @@
-# 💫 About Me:
-Hi, my name is Muhammad Maaz and I am a student of Software Engineering.<br>I am passionate about learning new technologies especially related to web development.
+
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm from Pakistan <br><br>- 🔭 I’m student of Software Engneering <br>- 📚 I'm currently learning Python,HTML and CSS<br>- ⚡ In my free time I like to Explore different Domains </p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML logo"  />
+  [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40" alt="CSS logo"  />
+  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python logo"  />
+  [Python](https://www.python.org)
+  <img width="12" />
+  
+
+###
+
+<h3 align="left">🛠 Reach Me Here</h3>
+
+###
+  <div align="left">
+  <img src="https://www.instagram.com/" height="40" alt="Instagram logo"  />
+  <img width="12" />
+  <img src="https://www.linkedin.com/feed/" height="40" alt="linked logo"  />
+  <img width="12" />
+   <div align="left">
+  <img src="https://mail.google.com/mail/u/0/#inbox" height="40" alt="G-mail logo"  />
+  
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+![GitHub Activity Graph](https://github.com/[Madmaxx-Ai].png?size=100)
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Affan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moh_affan_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-affan-396660245/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadAffan-06&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAffan-06&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAffan-06&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MuhammadAffan-06&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
